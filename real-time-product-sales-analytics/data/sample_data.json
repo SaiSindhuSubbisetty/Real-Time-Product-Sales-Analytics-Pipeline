@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2025-07-16T10:15:30Z",
+    "product_id": 1234,
+    "product_name": "Laptop",
+    "quantity": 2,
+    "unit_price": 350.5
+  }
+]
